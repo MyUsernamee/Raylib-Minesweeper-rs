@@ -9,3 +9,6 @@ git clone --recursive https://github.com/MyUsernamee/Raylib-Minesweeper-rs.git
 cd Raylib-Minesweeper-rs
 cargo run --release
 ```
+
+## Screenshots
+[Screenshot](images/game_capture.PNG)
