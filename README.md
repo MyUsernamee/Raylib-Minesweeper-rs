@@ -11,4 +11,4 @@ cargo run --release
 ```
 
 ## Screenshots
-[Screenshot](images/game_capture.PNG)
+~[Game Screenshot](images/game_capture.PNG)
